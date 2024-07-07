@@ -2,7 +2,7 @@ flask==2.2.5
 requests<=2.32.0
 
 # Pin low to work around Python 3 syntax creeping in.
-certifi<=2023.7.22
+certifi<=2024.7.4
 
 # Work around 'cannot import name 'soft_unicode' from 'markupsafe' by pinning it low.
 MarkupSafe<=2.0.1
